@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="image.jpg" width="380" alt="Meme do McDonald's Support" />
+  <br>
+  <sub>Contexto do meme: <a href="https://lnkd.in/p/dV4GSvmn" target="_blank">Post no LinkedIn</a></sub>
 </p>
 
 No meme acima, um usuário engana o bot de suporte do McDonald's com um ataque simples de **Goal Hijacking** (desvio de objetivo):
