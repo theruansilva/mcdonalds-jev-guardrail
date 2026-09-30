@@ -1,14 +1,4 @@
-# McDonald's Support Guardrail: Bloqueando Prompt Injection com Jev & LangGraph
-
-<p align="center">
-  <img src="avatar.png" width="110" alt="Ruan Silva" style="border-radius: 50%;" />
-  <br>
-  <sub>Criado por <b>Ruan Silva</b></sub>
-</p>
-
----
-
-## O Problema: O Meme do McDonald's
+# O Problema: O Meme do McDonald's
 
 <p align="center">
   <img src="image.jpg" width="380" alt="Meme do McDonald's Support" />
